@@ -1,0 +1,23 @@
+!DOCTYPE html>
+<html>
+  <head>
+    <title>My First HTML Page</title>
+  </head>
+  <body>
+    <h1>My Web Page</h1>
+    
+    <p>Welcome to my first HTML page!</p>
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
+    <ol>
+      <li>Step 1</li>
+      <li>Step 2</li>
+      <li>Step 3</li>
+    </ol>
+    <p>Check out <a href="https://www.google.com">Google</a>!</p>
+    <img src="image.jpg" alt="My Image">
+  </body>
+</html>
